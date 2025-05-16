@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">分数</string>
+    <string name="best">最高分</string>
+    <string name="restart">重新开始</string>
+    <string name="ai_hint">AI提示</string>
+    <string name="game_over">游戏结束</string>
+    <string name="game_over_message">你的最终得分：%1$s</string>
+    <string name="close">关闭</string>
+    <string name="swipe_instruction">左右上下滑动移动砖块</string>
+</resources> 
